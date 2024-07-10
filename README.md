@@ -1,3 +1,3 @@
-👋 Hi, I’m Everett Flynn. I'm a teenage developer (at the time of writing) who has put hands in many different things. I am currently enrolled at a community college and right now I'm going for a major in Software Engineering Technology. My dream has always been to start my own tech company, but if that doesn't work out, I'll be prepared to work for another company.
+👋 Hi, I’m Everett Flynn. I'm a teenage developer (at the time of writing) who has put hands in many different things. I graduated high school in 2024 with my Associate's Degree in Software Engineering Technology.
 
 Right now, I'm trying to make as many web products as I can (mostly in React), and I love web development as a whole. I've learned so much, but I still have much to learn...
