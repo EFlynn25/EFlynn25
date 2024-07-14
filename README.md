@@ -1,3 +1,3 @@
-👋 Hi, I’m Everett Flynn. I'm a teenage developer (at the time of writing) who has put hands in many different things. I graduated high school in 2024 with my Associate's Degree in Software Engineering Technology.
+👋 Hi, I’m Everett Flynn. I'm a teenage developer (at the time of writing) who has put hands in many different things. I graduated high school as valedictorian in 2024 with my Associate's Degree in Software Engineering Technology.
 
 Right now, I'm trying to make as many web products as I can (mostly in React), and I love web development as a whole. I've learned so much, but I still have much to learn...
